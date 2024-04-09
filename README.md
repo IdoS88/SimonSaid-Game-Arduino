@@ -39,7 +39,13 @@ The game logic is implemented in Arduino C++. The main steps are:
 ## Dependencies
 - Arduino IDE
 - Standard Arduino libraries (e.g., `digitalWrite()`, `digitalRead()`, `delay()`)
-- Custom library for the 74HC595 shift register (e.g., `ShiftRegister74HC595.h`)
+
+  ![Tremendous Wolt-Bigery](https://github.com/IdoS88/SimonSaid-Game-Arduino/assets/109031500/0b7ca768-791a-4faf-91a2-43a24978ec16)
+
+
+https://github.com/IdoS88/SimonSaid-Game-Arduino/assets/109031500/7d9f5c72-0344-45a9-9652-dca7a5e09a53
+
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
